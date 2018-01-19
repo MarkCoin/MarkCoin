@@ -1,0 +1,2 @@
+# MarkCoin
+zed mains only
